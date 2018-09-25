@@ -1,0 +1,16 @@
+"0","library(greta)
+"
+"2","
+Attaching package: ‘greta’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    binomial, poisson
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    %*%, backsolve, beta, colMeans, colSums, diag, forwardsolve, gamma, rowMeans, rowSums, sweep
+
+"

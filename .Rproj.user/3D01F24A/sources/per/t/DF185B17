@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537531093360.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3326969101",
+    "id" : "DF185B17",
+    "lastKnownWriteTime" : 1537542757,
+    "last_content_update" : 1537542757112,
+    "path" : "~/personal_projects/air/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "49"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,39 @@
+---
+title: "New machine learning approach"
+author: "Naren Srinivasan"
+date: "9/21/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(greta)
+library(tensorflow)
+```
+
+## Characterisitcs of the architecture
+
+* There are building blocks and operators
+* Combinations of building blocks and operators form first principles
+* First principles are combined to understand a particular phenomenon
+* Each first principle is represented by a model
+* When a new situation is encountered, we try to combine first principles to form a model
+* If it can't, then we spawn a new first principle
+
+# A simple experiment
+
+* Task - Teach addition
+* Start with no knowledge
+* We consider just numbers
+
+## New model
+
+```{r}
+
+```
+
+
+## Baseline model
+
+## Comparison and results
+
